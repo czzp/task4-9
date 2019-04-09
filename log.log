@@ -1,0 +1,5 @@
+2019-04-04 17:21:23,753 - WARNING - log1.py - root - 14 - app.logger.warning
+2019-04-04 17:21:23,753 - ERROR - log1.py - root - 15 - app.logger.error
+2019-04-04 17:21:23,753 - CRITICAL - log1.py - root - 16 - app.logger.critical
+2019-04-04 17:22:02,286 - ERROR - log1.py - root - 15 - app.logger.error
+2019-04-04 17:22:02,288 - CRITICAL - log1.py - root - 16 - app.logger.critical
